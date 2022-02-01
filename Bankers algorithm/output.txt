@@ -1,0 +1,115 @@
+Enter total no. of processes : 5
+
+ Enter total no. of resources : 3
+
+ Process 0
+ Allocation for resource 1 : 0
+ Maximum for resource 1 : 7
+ Allocation for resource 2 : 1
+ Maximum for resource 2 : 5
+ Allocation for resource 3 : 0
+ Maximum for resource 3 : 3
+
+ Process 1
+ Allocation for resource 1 : 2
+ Maximum for resource 1 : 3
+ Allocation for resource 2 : 0
+ Maximum for resource 2 : 2
+ Allocation for resource 3 : 0
+ Maximum for resource 3 : 2
+
+ Process 2
+ Allocation for resource 1 : 3
+ Maximum for resource 1 : 9
+ Allocation for resource 2 : 0
+ Maximum for resource 2 : 0
+ Allocation for resource 3 : 2
+ Maximum for resource 3 : 2
+
+ Process 3
+ Allocation for resource 1 : 2
+ Maximum for resource 1 : 2
+ Allocation for resource 2 : 2
+ Maximum for resource 2 : 1
+Allocation should be less than maximum
+ Allocation for resource 2 : 1
+ Maximum for resource 2 : 2
+ Allocation for resource 3 : 1
+ Maximum for resource 3 : 2
+
+ Process 4
+ Allocation for resource 1 : 0
+ Maximum for resource 1 : 4
+ Allocation for resource 2 : 0
+ Maximum for resource 2 : 3
+ Allocation for resource 3 : 2
+ Maximum for resource 3 : 3
+
+ Available resources : 
+ Resource 1 : 3
+ Resource 2 : 3
+ Resource 3 : 2
+
+ Allocation Matrix
+0       1       0
+2       0       0
+3       0       2
+2       1       1
+0       0       2
+ Maximum Requirement Matrix
+7       5       3
+3       2       2
+9       0       2
+2       2       2
+4       3       3
+ Need Matrix
+7       4       3
+1       2       2
+6       0       0
+0       1       1
+4       3       1
+1-Safety algorithm
+2-Resource request algorithm
+3-exit
+Option:1
+
+
+ P1   P3   P4   P0   P2  
+ A safety sequence has been detected.
+
+1-Safety algorithm
+2-Resource request algorithm
+3-exit
+Option:2
+
+ Enter process no. : 1
+
+ Enter additional request :- 
+ Request for resource 1 : 1
+ Request for resource 2 : 0
+ Request for resource 3 : 2
+
+
+ P1   P3   P4   P0   P2  
+ A safety sequence has been detected.
+
+1-Safety algorithm
+2-Resource request algorithm
+3-exit
+Option:2
+
+ Enter process no. : 0
+
+ Enter additional request :- 
+ Request for resource 1 : 1
+ Request for resource 2 : 1
+ Request for resource 3 : 0
+
+
+ P1   P3   P4   P0   P2  
+ A safety sequence has been detected.
+
+1-Safety algorithm
+2-Resource request algorithm
+3-exit
+Option:3
