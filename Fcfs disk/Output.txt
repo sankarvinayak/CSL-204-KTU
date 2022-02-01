@@ -1,0 +1,14 @@
+Enter number of disk operations:5
+
+Initial head position:20
+Enter the processes position in arrival order
+12
+90
+10
+45
+88
+
+Head movement
+ 20-->12-->90-->10-->45-->88
+Total seek time:244
+Average seek time:48

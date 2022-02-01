@@ -1,0 +1,2 @@
+We are in the parent process
+We are in the child process

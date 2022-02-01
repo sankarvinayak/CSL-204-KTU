@@ -1,0 +1,16 @@
+Enter the queue size : 5
+
+Enter the queue of disk portions to be read : 3
+90
+41
+32
+88
+
+Enter head position : 50
+
+Sequence
+
+ 50 --> 41 --> 32 --> 3 --> 0 -->  88 --> 90
+
+Total Seek Time is : 140
+Average Seek Time is : 28.000

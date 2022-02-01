@@ -1,0 +1,47 @@
+1 Addition
+2 Subtraction
+3 Multiplication
+4 Division
+Enter your choice
+1
+Enter the first value
+1
+Enter the third value
+1
+The sum of digits 1 and 1 is 2
+
+1 Addition
+2 Subtraction
+3 Multiplication
+4 Division
+Enter your choice
+2
+Enter the first value
+2
+Enter the third value
+1
+The diffrence between 2 and 1 is 1
+
+1 Addition
+2 Subtraction
+3 Multiplication
+4 Division
+Enter your choice
+3
+Enter the first value
+3
+Enter the third value
+5
+The product of 3 and 5 is 15
+
+1 Addition
+2 Subtraction
+3 Multiplication
+4 Division
+Enter your choice
+4
+Enter the first value
+8
+Enter the third value
+4
+8 divided by 4 is 2

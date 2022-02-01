@@ -1,0 +1,19 @@
+Enter the number of blocks/processes 5
+Enter size of each block in order
+Block 1 500
+Block 2 300
+Block 3 200
+Block 4 600
+Block 5 400
+Enter the process memory requirement in order
+Process 1 250
+Process 2 120
+Process 3 560
+Process 4 124
+Process 5 650
+Process number  Process size    block number    block size
+1               250             1               500
+2               120             2               300
+3               560             4               600
+4               124             3               200
+Unable to find sutable location for process 5 of size 650

@@ -1,0 +1,23 @@
+Enter the first number
+50
+Enter the second number
+30
+Enter the third number
+20
+First number 50 is the largest
+
+Enter the first number
+30
+Enter the second number
+50
+Enter the third number
+20
+Second number 50 is the largest
+
+Enter the first number
+20
+Enter the second number
+30
+Enter the third number
+40
+Third number 40 is the largest

@@ -1,0 +1,4 @@
+fd=3
+ read.txt opened with read and write access
+
+Welcome to shell programming was written to my file

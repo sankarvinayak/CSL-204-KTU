@@ -1,0 +1,27 @@
+Enter the number of processes:5
+Process P1 
+burst time:2
+Arrival time:2
+Process P2 
+burst time:3
+Arrival time:2
+Process P3 
+burst time:4
+Arrival time:2
+Process P4 
+burst time:2
+Arrival time:0
+Process P5 
+burst time:6
+Arrival time:2
+
+Process         Arrival time            Burst Time      Waiting Time    Turnaround Time
+P4              0                       2               0               2
+P1              2                       2               0               2
+P2              2                       3               2               5
+P3              2                       4               5               9
+P5              2                       6               9               15
+
+Average Waiting Time:3.200000
+Average Turnaround time:6.600000
+Gantt chart : [P4##][P1##][P2###][P3####][P5######]

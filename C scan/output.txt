@@ -1,0 +1,19 @@
+Enter number of disk seeks:5
+Enter disk seeks position:
+60
+10
+80
+30
+40
+Enter initial head position:50
+Enter max value of seek for the disk:100
+
+Disk moved from 50 to 60 with seek time 10
+Disk moved from 60 to 80 with seek time 20
+Disk moved from 80 to 100 with seek time 20
+Disk moved from 100 to 0 with seek time 100
+Disk moved from 0 to 10 with seek time 10
+Disk moved from 10 to 30 with seek time 20
+Disk moved from 30 to 40 with seek time 10
+Total seek time=190
+Average seek time=38

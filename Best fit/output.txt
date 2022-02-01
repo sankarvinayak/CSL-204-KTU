@@ -1,0 +1,19 @@
+Enter the number of blocks/processes 5
+Enter size of each block in order
+Block 1 500
+Block 2 100
+Block 3 400
+Block 4 200
+Block 5 800
+Enter the process memory requirement in order
+Process 1 90
+Process 2 154
+Process 3 390
+Process 4 450
+Process 5 600
+Process number  Process size    block number    block size
+1               90              2               100
+2               154             4               200
+3               390             3               400
+4               450             1               500
+5               600             5               800
