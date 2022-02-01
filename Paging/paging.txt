@@ -1,0 +1,92 @@
+student@swlab-OptiPlex-7010:~/Desktop/PKD19CS046$ ./a.out 
+Enter the number of programs 2
+Enter number of page table entries of process 1 2
+page frame index of 0th page of 1 th process 0
+page frame index of 1th page of 1 th process 1
+Enter number of page table entries of process 2 2
+page frame index of 0th page of 2 th process 3
+page frame index of 1th page of 2 th process 4
+
+1-Schedule
+2-translate
+else- exit 1
+
+Enter the id of process 1- 2 1
+
+Page table of process 1
+Page table index	Page frame index	Valid
+0			0			1
+1			1			1
+2			0			0
+3			0			0
+4			0			0
+5			0			0
+6			0			0
+7			0			0
+8			0			0
+9			0			0
+10			0			0
+11			0			0
+12			0			0
+13			0			0
+14			0			0
+15			0			0
+1-Schedule
+2-translate
+else- exit 2
+
+Enter the logical address in hexadecimal(16 bit binary) abc1
+
+!!invalid page index!!
+
+1-Schedule
+2-translate
+else- exit 2
+
+Enter the logical address in hexadecimal(16 bit binary) 0121
+
+physical address of the given logical address=121 
+1-Schedule
+2-translate
+else- exit 2
+
+Enter the logical address in hexadecimal(16 bit binary) 1111
+
+physical address of the given logical address=1111 
+1-Schedule
+2-translate
+else- exit 1
+
+Enter the id of process 1- 2 2
+
+Page table of process 2
+Page table index	Page frame index	Valid
+0			3			1
+1			4			1
+2			0			0
+3			0			0
+4			0			0
+5			0			0
+6			0			0
+7			0			0
+8			0			0
+9			0			0
+10			0			0
+11			0			0
+12			0			0
+13			0			0
+14			0			0
+15			0			0
+1-Schedule
+2-translate
+else- exit 2
+
+Enter the logical address in hexadecimal(16 bit binary) 0abc
+
+physical address of the given logical address=3abc 
+1-Schedule
+2-translate
+else- exit 3
+
+!!Exiting!!
+
